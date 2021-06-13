@@ -1,0 +1,15 @@
+{
+  "name": "note-keeping",
+  "version": "1.0.0",
+  "description": "this is a note keeping application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "author": "Jay",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^13.1.2",
+    "nedb": "^1.8.0"
+  }
+}
